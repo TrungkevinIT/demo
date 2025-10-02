@@ -3,3 +3,4 @@ Tran Minh Hiep
 Minh Hieu
 dev_A
 dev_B
+conflic master
