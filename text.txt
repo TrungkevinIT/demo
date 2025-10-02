@@ -4,3 +4,4 @@ Minh Hieu
 dev_A
 dev_B
 conflic master
+conflic dev
