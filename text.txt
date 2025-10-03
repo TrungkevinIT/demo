@@ -5,3 +5,4 @@ dev_A
 dev_B
 conflic master
 conflic b
+comfic c
