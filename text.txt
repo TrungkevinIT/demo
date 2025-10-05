@@ -1,1 +1,1 @@
-tac gia A
+tac gia A,B
